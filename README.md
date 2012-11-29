@@ -1,0 +1,1 @@
+This program only used to practise my understanding of pointer, memory allocation and basic concept of algorithm.
